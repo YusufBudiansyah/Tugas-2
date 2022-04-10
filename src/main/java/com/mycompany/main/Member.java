@@ -26,7 +26,7 @@ public class Member extends StrayKids{
     
     @Override
     public void sekijeu(){
-    System.out.println("Tapi Bang Chan juga ayang aku sich");
+    System.out.println("Tapi Aku Lebih Keren");
     }
     
 }
